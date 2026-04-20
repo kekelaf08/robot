@@ -1,0 +1,6 @@
+google-genai
+SpeechRecognition
+PyAudio
+edge-tts
+python-dotenv
+pygame
